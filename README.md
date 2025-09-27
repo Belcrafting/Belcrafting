@@ -27,6 +27,8 @@ If you want, maybe go visit my site on google sites, it's right over here, just 
 
 [Ultra Kill](https://belcrafting.github.io/ultra-kill/) - By [98cornbin](https://98cornbin.netlify.app/)
 
+[Half Life](https://belcrafting.github.io/Half-Life/) - By [Genizy](https://github.com/genizy)
+
 ## Check out what me and a couple of friends are making over on discord
 
 <img src="https://camo.githubusercontent.com/22e8961f8e2bb5aac0031afae9b1df2f9c7656c7a3c20d4e1f82dbbfb451bdc5/68747470733a2f2f646973636f72646170702e636f6d2f6173736574732f66633062303166653130613062386336303266623031303664383138396439622e706e67" alt="logo" data-canonical-src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" style="max-width: 100%;">(https://discord.gg/PsMXskU27y)
