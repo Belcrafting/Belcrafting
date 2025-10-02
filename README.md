@@ -1,6 +1,6 @@
 # MEET THE COOK
 
-<img src="https://lh3.googleusercontent.com/sitesv/AICyYdaMEOr0MOYLRO8FFzyP83idldbOWUrib31keDRHxfKwVkfBXT6leK3-cUmb3aNXgyOhTuTRn6nXmtx8DSfJvuARCBZbyut4Xg5EgqR-gdElwIJyLV_KLka0WqVU5xZ8W50wkVxyXDOMEbuVcoK4E-Asgk8RNWXFD9LLCkO9_M2TKqXA5oeym9xi89HRqKd4sN995oeXQlTaZ7CHfbO0h6tO4C_13pI6Es0vw5Y=w1280" class="CENy8b" role="img">
+<img src="https://lh3.googleusercontent.com/sitesv/AICyYdYEx5O3UBJunQteU-_cab85HA47Fwf6xT7yWdhjzFcEGbbbsR-Ez52DrAY0ckTlJ2sQfTFFn363d25GdVTwymfPg2_v-I1uIRMjUfgpgnFgBiYRfNpmYxCYAKnsYh6T7-q-jH37UY4mjHr1aEPZJ2p7eqNSMv8BPzKZlJSbNJma3QC0aK_Pxvfj5HsRDiUZ5MYcsM6JSrP34Rs1Zf2e1ZdoJbPb6Hjk6yAbtNc=w1280" class="CENy8b" role="img">
 
 Most of these ports and other things are made by other people, I just want to play games at school :P
 I also helped my friend make his own google site. I may or may not make a site of my own using Github to host it rather then google sites.
